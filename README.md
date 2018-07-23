@@ -1,4 +1,7 @@
-todolist
+Todolist
 ========
+A symfony Project allowing user to create a todolist(Name, Type, Description, Deadline) , with edit, delete features.
 
-A Symfony project created on October 31, 2017, 2:56 am.
+<br>
+
+<b>Technology Used:</b> PHP (symfony), HTML, CSS (Bootstrap) , JS (Jquery) and SQL (Datatable + Editor)
